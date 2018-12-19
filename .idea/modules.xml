@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/circRNA-data-analysis-python.iml" filepath="$PROJECT_DIR$/.idea/circRNA-data-analysis-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../python-coding/.idea/python-coding.iml" filepath="$PROJECT_DIR$/../../python-coding/.idea/python-coding.iml" />
     </modules>
   </component>
 </project>
